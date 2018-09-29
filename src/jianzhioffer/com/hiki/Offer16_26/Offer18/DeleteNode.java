@@ -3,6 +3,7 @@ package jianzhioffer.com.hiki.Offer16_26.Offer18;
 import jianzhioffer.com.hiki.Offer1_15.Offer6.Offer6.ListNode;
 
 /*
+    18.1
     在 O(1) 时间内删除链表节点
     给了头结点和要删除的结点。
 
